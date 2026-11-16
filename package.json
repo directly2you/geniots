@@ -1,0 +1,12 @@
+{
+  "name": "geniots",
+  "private": true,
+  "description": "Geniots / Bubliots / Entropiarts website and the Bubliots HTML5 game",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "node tools/build.js"
+  },
+  "devDependencies": {
+    "terser": "^5.31.0"
+  }
+}
